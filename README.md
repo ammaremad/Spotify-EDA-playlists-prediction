@@ -67,17 +67,10 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost imbalanc
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spotify-streamed-songs-analysis.git
+   git clone https://github.com/ammareamd/spotify-streamed-songs-analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
    cd spotify-streamed-songs-analysis
    ```
 3. Run the Jupyter Notebook or Python script to execute the analysis.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-Feel free to customize the sections as needed, especially the installation and usage instructions to match your project's structure and requirements.
